@@ -4,6 +4,17 @@
 
 A collaborative writing experience, where a new word is formed every hour (?), from the most popular/common word submitted by the users.
 
+It is also open source, and the source code is also allowed to change, although here there is some moderation as opposed to the writing experience. But this allows the project to evolve.
+
+### ideas
+
+- give out achievements, like, first vote on winning word.
+- let the open soure community add features, like comments on words and stuff, captcha, and what not.
+- if there is no vote at all, print a dot.
+- launch it while it is live, dont set a launch date in advance etc.
+- send emails to everybody signed up, once a day with the latest words
+  - ability to change to once a week, or unsubscribe in email
+
 ### Implementation
 
 ### Frontend
@@ -37,3 +48,22 @@ A easy, simple solution would be a password-less email based flow, inspired by h
   - votes
   - words
   - users
+
+### name ideas:
+
+- internetwrite .com
+- internetwrites .com
+- lettertoself .com
+- lettertoearth .com
+- letter to humanity
+- worldlog
+- hourword .com
+- hourperword.com
+- wordperhour.com
+- 1wordperhour.com
+- onewordperhour.com
+- democraticwriting.com
+- democracywrites.com
+- writeby.vote
+- writing.vote
+- writer.vote
